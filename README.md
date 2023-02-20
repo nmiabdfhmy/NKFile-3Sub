@@ -70,6 +70,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 </details>
 
+
 ## 👨🏻‍💻 Credits
 
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)

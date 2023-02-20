@@ -15,19 +15,19 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "mrismanaziz"
+      "value": "RedflixHD"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin di BOT [ Gunakan Spasi Untuk Pemisah User ID ]",
-      "value": "0"
+      "value": ""
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": "6"
+      "value": ""
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+      "value": ""
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
@@ -39,15 +39,15 @@
     },
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
-      "value": "0"
+      "value": "-100"
     },
     "FORCE_SUB_CHANNEL_2": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
-      "value": "0"
+      "value": "-100"
     },
     "FORCE_SUB_GROUP": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
-      "value": "0"
+      "value": "-100"
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",

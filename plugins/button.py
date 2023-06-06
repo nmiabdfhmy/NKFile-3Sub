@@ -34,9 +34,9 @@ def fsub_button(client, message):
     if FORCE_SUB_CHANNEL and FORCE_SUB_CHANNEL_2 and FORCE_SUB_GROUP:
         buttons = [
             [
-                InlineKeyboardButton(text="ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ɪ", url=client.invitelink),
-                InlineKeyboardButton(text="ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ɪɪ", url=client.invitelink2),
-                InlineKeyboardButton(text="ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ɪɪɪ", url=client.invitelink3),
+                InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ ɪ", url=client.invitelink),
+                InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ ɪɪ", url=client.invitelink2),
+                InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ ɪɪɪ", url=client.invitelink3),
             ],
         ]
         try:
